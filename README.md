@@ -4,7 +4,7 @@ I have used Cylic.sh for deploying backened server
 ## 🔗 Links
 netlify link -https://frontened-iota.vercel.app/
 
-backened= https://tough-fox-houndstooth.cyclic.app/User
+backened link= https://tough-fox-houndstooth.cyclic.app/User
 
 github(frontened) - https://github.com/Adarsh-nihal/Mobilicis 
 
